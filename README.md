@@ -70,14 +70,6 @@ Research project focused on automating Wolf Motor Function Test task detection a
 
 ---
 
-## 📊 GitHub Statistics
-
-![Ruchitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruchitha98&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchitha98&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: linkedin.com/in/ruchitha-18
