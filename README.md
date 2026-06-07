@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi 👋 I'm Ruchitha Sampath Weerasekara
 
-<!--
-**Ruchitha98/Ruchitha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist | Software Engineer | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I am a Software Engineer with commercial development experience and an MSc Data Science graduate from the University of East Anglia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building data driven solutions, machine learning projects, AI applications, and analytical dashboards that solve real world problems.
+
+---
+
+## 🔭 Currently Working On
+
+- Data analytics portfolio projects
+- Machine learning model development
+- Visual Language Model research for healthcare applications
+
+## 🌱 Currently Learning
+
+- Machine Learning deployment
+- MLOps fundamentals
+- Tableau and dashboard design
+- Cloud technologies
+
+## 🎯 Career Interests
+
+- Data Analyst
+- Data Scientist
+- Machine Learning Engineer
+- AI Engineer
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,mysql,git,github,vscode,aws,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Data Job Market Analytics
+
+An end-to-end data analytics project exploring global data science salaries, job roles, remote work trends, and hiring patterns.
+
+**Tech Stack:** Python, Pandas, Seaborn, Tableau
+
+🔗 [View Project](https://github.com/Ruchitha98/Data-Job-Market-Analytics)
+
+---
+
+### 🤖 Customer Churn Prediction
+
+Machine learning project predicting customer churn using classification models and business-focused model evaluation.
+
+**Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib
+
+🚧 Coming Soon
+
+---
+
+### 🧠 WMFT Automation using Visual Language Models
+
+Research project focused on automating Wolf Motor Function Test task detection and scoring using Visual Language Models.
+
+**Tech Stack:** Python, Qwen-VL, Transformers, Computer Vision
+
+🚧 Coming Soon
+
+---
+
+## 📊 GitHub Statistics
+
+![Ruchitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruchitha98&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchitha98&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/ruchitha-18
+- Email: rssampath21@gmail.com
