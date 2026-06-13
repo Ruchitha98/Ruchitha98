@@ -70,11 +70,11 @@ Machine learning project predicting residential property prices using Linear Reg
 
 ### 🧠 WMFT Automation using Visual Language Models
 
-Research project focused on automating Wolf Motor Function Test task detection and scoring using Visual Language Models.
+Research project automating Wolf Motor Function Test task detection and clinical score prediction using Qwen2.5-VL for stroke rehabilitation assessment.
 
-**Tech Stack:** Python, Qwen-VL, Transformers, Computer Vision
+**Tech Stack:** Python, Qwen2.5-VL, Transformers, PyTorch, Computer Vision, Healthcare AI
 
-🚧 Coming Soon
+🔗 [View Project](https://github.com/Ruchitha98/WMFT-VLM-Automation)
 
 ---
 
