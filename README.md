@@ -52,11 +52,11 @@ An end-to-end data analytics project exploring global data science salaries, job
 
 ### 🤖 Customer Churn Prediction
 
-Machine learning project predicting customer churn using classification models and business-focused model evaluation.
+Machine learning project predicting customer churn using Logistic Regression and Random Forest models.
 
-**Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib
+**Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib
 
-🚧 Coming Soon
+🔗 Repository: Customer-Churn-Prediction
 
 ---
 
