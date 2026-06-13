@@ -72,5 +72,5 @@ Research project focused on automating Wolf Motor Function Test task detection a
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/ruchitha-18
+- LinkedIn: [linkedin.com/in/ruchitha-18](https://www.linkedin.com/in/ruchitha-18/)
 - Email: rssampath21@gmail.com
