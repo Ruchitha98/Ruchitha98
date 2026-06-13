@@ -60,6 +60,14 @@ Machine learning project predicting customer churn using Logistic Regression and
 
 ---
 
+### 🏠 House Price Prediction
+
+Machine learning project predicting residential property prices using Linear Regression and Random Forest Regressor models.
+
+**Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Joblib
+
+🔗 [View Project](https://github.com/Ruchitha98/House-Price-Prediction)
+
 ### 🧠 WMFT Automation using Visual Language Models
 
 Research project focused on automating Wolf Motor Function Test task detection and scoring using Visual Language Models.
