@@ -56,7 +56,7 @@ Machine learning project predicting customer churn using Logistic Regression and
 
 **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib
 
-🔗 Repository: Customer-Churn-Prediction
+🔗 [View Project](https://github.com/Ruchitha98/Customer-Churn-Prediction)
 
 ---
 
